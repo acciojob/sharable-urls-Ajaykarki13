@@ -1,7 +1,7 @@
 // your code here
 
 const url = document.getElementById('url');
-const btn = document.getElementById('btn');
+const btn = document.getElementById('button');
 
 btn.addEventListener('click', function() {
   let nam = document.getElementById('name').value;
